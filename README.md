@@ -24,7 +24,7 @@ I don't just build features; I engineer business assets. My expertise lies in th
 
 ### 📬 Let's Collaborate
 - 🌐 [ardihyseni.com](https://ardihyseni.com)
-- 📧 [info.ardihyseni@gmail.com]([mailto:info.ardihyseni@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=info.ardihyseni@gmail.com))
+- 📧 [info.ardihyseni@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=info.ardihyseni@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ardi-hyseni-455a25359)
 
 *"Beautiful code is useless if it doesn't convert. I build for ROI."*
