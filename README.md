@@ -7,7 +7,7 @@ I don't just build features; I engineer business assets. My expertise lies in th
 ---
 
 ### 🛠 The Stack
-- **Backend:** Spring Boot (Java), Node.js, SSR, Thymeleaf.
+- **Backend & Scripting:** Spring Boot (Java), Node.js, Python (Automation), SSR, Thymeleaf
 - **Frontend:** Vite, Modern JS, CSS3 (Modular & Scalable).
 - **Data & Cloud:** SQL, Neon Serverless, SSMS.
 - **Design Ops:** Advanced Figma (Component Logic & Design Systems).
