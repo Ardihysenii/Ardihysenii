@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ardi Hyseni 🚀
+### Product Engineer | Design Systems Architect | Security Researcher
+📍 **Podujevë / Prishtinë, Kosovo**
 
-<!--
-**Ardihysenii/Ardihysenii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I don't just build features; I engineer business assets. My expertise lies in the intersection of high-fidelity design, enterprise-grade backend architecture, and offensive security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 The Stack
+- **Backend:** Spring Boot (Java), Node.js, SSR, Thymeleaf.
+- **Frontend:** Vite, Modern JS, CSS3 (Modular & Scalable).
+- **Data & Cloud:** SQL, Neon Serverless, SSMS.
+- **Design Ops:** Advanced Figma (Component Logic & Design Systems).
+- **Defense:** Offensive Security, Kali Linux, Penetration Testing.
+
+---
+
+### ⚡ The Strategy
+- **Logic Meets Design:** I architect Figma environments that align perfectly with engineering workflows, eliminating technical debt during handoff.
+- **Security-First:** Every line of code is written with a "Hardened Architecture" mindset to protect high-value digital assets.
+- **Scalability:** Focused on building enterprise solutions that scale from MVP to 100k+ users without friction.
+
+---
+
+### 📬 Let's Collaborate
+- 🌐 [ardihyseni.com](https://ardihyseni.com)
+- 📧 [info.ardihyseni@gmail.com](mailto:info.ardihyseni@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ardi-hyseni-455a25359)
+
+*"Beautiful code is useless if it doesn't convert. I build for ROI."*
