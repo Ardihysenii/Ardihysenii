@@ -2,9 +2,6 @@
 
 <h3 align="center">Senior Product Engineer · Full-Stack Developer · NodeJS · Java Spring Boot</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?user=ardihysenii&color=blue&style=flat" alt="Profile views" />
-</div>
 
 ---
 
