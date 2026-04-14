@@ -1,31 +1,40 @@
-# Hi, I'm Ardi Hyseni 🚀
-### Product Engineer | Design Systems Architect | Security Researcher
-📍 **Podujevë / Prishtinë, Kosovo**
+👋 Hi, I'm Ardi Hyseni
+Senior Product Engineer
+ardihyseni.com
 
+🧑‍💻 About Me
+I'm a Full-Stack Developer with 15+ years of experience in building backend and frontend systems across multiple platforms and technologies including
+NodeJS, Nest, Java Spring Boot, C# .NET, and Go.
 
-I don't just build features; I engineer business assets. My expertise lies in the intersection of high-fidelity design, enterprise-grade backend architecture, and offensive security.
+My expertise lies in software architecture, data processing, and system scalability — building solutions that handle large-scale data efficiently.
+I’m passionate about mentoring, engineering design patterns, and AI-driven backend systems.
 
----
+📍 Based in Podujevo, Republic of Kosovo
+🎓 Educated at Cacttus Education
 
-### 🛠 The Stack
-- **Backend & Scripting:** Spring Boot (Java), Node.js, Python (Automation), SSR, Thymeleaf
-- **Frontend:** Vite, Modern JS, CSS3 (Modular & Scalable).
-- **Data & Cloud:** SQL, Neon Serverless, SSMS.
-- **Design Ops:** Advanced Figma (Component Logic & Design Systems).
-- **Defense:** Offensive Security, Kali Linux, Penetration Testing.
+⚙️ Tech Stack
+🖥️ Backend & Frameworks
+NodeJS · Java Spring Boot · Go · Python(basic)
 
----
+💾 Databases & Data Systems
+PostgreSQL · MySQL · NeonDB · MongoDB
 
-### ⚡ The Strategy
-- **Logic Meets Design:** I architect Figma environments that align perfectly with engineering workflows, eliminating technical debt during handoff.
-- **Security-First:** Every line of code is written with a "Hardened Architecture" mindset to protect high-value digital assets.
-- **Scalability:** Focused on building enterprise solutions that scale from MVP to 100k+ users without friction.
+☁️ Cloud & DevOps
+API & Environments · Docker · PaaS & Serverless · GitHub Actions · CI/CD
 
----
+💻 Frontend & Tools
+TypeScript · JavaScript · Tailwind CSS · Figma-to-Code · Responsive Design · Thymeleaf · HTML/CSS
 
-### 📬 Let's Collaborate
-- 🌐 [ardihyseni.com](https://ardihyseni.com)
-- 📧 [info.ardihyseni@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=info.ardihyseni@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ardi-hyseni-455a25359)
+🌐 Contact & Links
+📫 Reach Me At:
 
-*"Beautiful code is useless if it doesn't convert. I build for ROI."*
+🐙 GitHub: github.com/ardihysenii
+🐦 Protfolio: ardihyseni.com
+📍 Location: Podujevo, Republic of Kosovo
+🎓 Education: Cacttus Education
+⚡ Quick Facts
+🔭 Working on: High-performance blood management systems and library architectures using Java Spring Boot.
+🧠 Tech Stack: Focused on SQL Server (SSMS), Node.js, and building secure API backends.
+🎨 Design Philosophy: Creating Premium & Minimalist layouts in Figma and turning them into pixel-perfect code.
+💬 Interested in: Clean code, backend debugging (Maven/Spring), and professional branding.
+🌱 Exploring: Modern cloud deployments with Neon Serverless and Vercel.
