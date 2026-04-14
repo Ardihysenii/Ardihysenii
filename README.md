@@ -1,7 +1,7 @@
 # Hi, I'm Ardi Hyseni 🚀
 ### Product Engineer | Design Systems Architect | Security Researcher
 📍 **Podujevë / Prishtinë, Kosovo**
-![Views](https://komarev.com/ghpvc/?user=Ardihysenii&color=blue)
+
 
 I don't just build features; I engineer business assets. My expertise lies in the intersection of high-fidelity design, enterprise-grade backend architecture, and offensive security.
 
