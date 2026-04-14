@@ -38,7 +38,7 @@ I’m passionate about modern engineering design patterns, UI/UX aesthetics, and
 📫 **Reach Me At:**
 
 * 🐙 **GitHub:** [github.com/ardihysenii](https://github.com/ardihysenii)
-* 💬 **Linkedin** [Linkedin.com/ardihyseni]([www.linkedin.com/in/ardi-hyseni-455a25359](https://www.linkedin.com/in/ardi-hyseni-455a25359))
+* 💬 **Linkedin** [Linkedin.com/ardihyseni]([www.linkedin.com/in/ardi-hyseni-455a25359])
 * 🌍 **Portfolio:** [ardihyseni.com](https://ardihyseni.com)
 * 📍 **Location:** *Podujevo, Republic of Kosovo*
 * 🎓 **Education:** *Cacttus Education*
