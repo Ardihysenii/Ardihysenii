@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ardi Hyseni</h1>
 
-<h3 align="center">Senior Product Engineer · Full-Stack Developer · NodeJS · Java Spring Boot</h3>
+<h3 align="center">Founder Product Engineer · Full-Stack Developer · NodeJS · Java Spring Boot</h3>
 
 
 ---
