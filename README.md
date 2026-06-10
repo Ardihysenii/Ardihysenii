@@ -22,6 +22,9 @@ I’m passionate about modern engineering design patterns, UI/UX aesthetics, and
 #### 🖥️ Backend & Frameworks
 `NodeJS` · `Java Spring Boot` · `Go` · `Python (basic)`
 
+#### 🤖 AI & Machine Learning
+`Model Training` · `Predictive Analytics` · `Algorithmic Trading Logic` · `AI API Integration` · `Pandas`
+
 #### 💾 Databases & Data Systems
 `PostgreSQL` · `MySQL` · `NeonDB` · `MongoDB`
 
@@ -29,7 +32,7 @@ I’m passionate about modern engineering design patterns, UI/UX aesthetics, and
 `API & Environments` · `Docker` · `PaaS & Serverless` · `GitHub Actions` · `CI/CD`
 
 #### 💻 Frontend & Tools
-`TypeScript` · `JavaScript` · `Tailwind CSS` · `Figma-to-Code` · `Responsive Design` · `Thymeleaf` · `HTML/CSS`
+`TypeScript` · `JavaScript` · `Tailwind CSS` · `Figma-to-Code` · `Responsive Design` · `Thymeleaf` · `HTML/CSS`·  `Vue.js`
 
 ---
 
@@ -47,7 +50,7 @@ I’m passionate about modern engineering design patterns, UI/UX aesthetics, and
 
 ### ⚡ Quick Facts
 
-* 🔭 **Working on:** High-performance blood management systems and library architectures using **Java Spring Boot**.
+* 🔭 Working on: AI-powered patient sound monitoring systems and algorithmic cryptocurrency trading AI using Java Spring Boot and integrated AI APIs.
 * 🧠 **Tech Stack:** Focused on **SQL Server (SSMS)**, **Node.js**, and building secure API backends.
 * 🎨 **Design Philosophy:** Creating **Premium & Minimalist** layouts in Figma and turning them into pixel-perfect code.
 * 💬 **Interested in:** Clean code, backend debugging (Maven/Spring), and professional branding.
