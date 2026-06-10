@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ardi Hyseni</h1>
 
-<h3 align="center">Founder Product Engineer · Full-Stack Developer · NodeJS · Java Spring Boot</h3>
+<h3 align="center">Product Engineer · Full-Stack Developer · Java Spring Boot · NodeJS · AI Systems</h3>
 
 
 ---
@@ -9,8 +9,7 @@
 
 I'm a **Full-Stack Developer** focused on building robust backend and frontend systems across multiple platforms and technologies including **NodeJS, Java Spring Boot, and Go**.
 
-My expertise lies in **software architecture, data processing, and system scalability** — building solutions that handle complex data efficiently. 
-I’m passionate about modern engineering design patterns, UI/UX aesthetics, and AI-driven backend systems.
+Building systems that think, scale, and don't break under pressure. Obsessed with architecture, clean backend logic, and turning complex problems into elegant solutions.
 
 📍 Based in **Podujevo, Republic of Kosovo**
 🎓 Educated at **Cacttus Education**
